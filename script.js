@@ -1,6 +1,6 @@
 const cursos = [
   { nome: "Desenvolvimento Web Full Stack", instituicao: "Trybe", carga: "1.500h" },
-  { nome: "Graduação em Tecnologia de Análise e Desenvolvimento de Sistemas", instituicao: "FAESA", carga: " " },
+  { nome: "Graduação em Tecnologia de Análise e Desenvolvimento de Sistemas", instituicao: "FAESA", carga: "2.120 horas" },
 ];
 
 const projetos = [
